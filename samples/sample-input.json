@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "data-editing-validation-workbench",
+    "title": "データ編集・検証ワークベンチ"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "データ編集・検証ワークベンチ 正常ケース",
+      "source": "source-ok",
+      "dataKind": "dataKind-ok",
+      "schema": "schema-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "sampleData": "ready"
+    }
+  ]
+}
