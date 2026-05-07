@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\VSCodeExtension\\created_idea_004_data-editing-validation-workbench",
+  "zip": "D:\\AI\\VSCodeExtension\\created_idea_004_data-editing-validation-workbench\\idea_004_data-editing-validation-workbench.zip",
+  "rank": 34,
+  "domain": "VSCodeExtension",
+  "ideaNo": 4,
+  "title": "データ編集・検証ワークベンチ",
+  "overview": "JSON、CSV、SQLite、APIレスポンス、正規表現をVS Code内で扱う。入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "problem": "小さなデータ確認のために複数アプリを開く必要がある。",
+  "differentiation": "開発中の設定や検証結果をワークスペース内に保存する。"
+}
