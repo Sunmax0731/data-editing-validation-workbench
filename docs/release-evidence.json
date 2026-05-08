@@ -1,0 +1,32 @@
+{
+  "product": "data-editing-validation-workbench",
+  "repository": "Sunmax0731/data-editing-validation-workbench",
+  "githubUrl": "https://github.com/Sunmax0731/data-editing-validation-workbench",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/data-editing-validation-workbench/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "data-editing-validation-workbench-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "vscode-extension",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/data-editing-validation-workbench",
+    "url": "https://github.com/Sunmax0731/data-editing-validation-workbench",
+    "releaseUrl": "https://github.com/Sunmax0731/data-editing-validation-workbench/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}
